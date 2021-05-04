@@ -8,3 +8,4 @@ Check out the submission page to download and play here: [Frogs N Flies Submissi
 | Name | GitHub |
 |------|--------|
 | YaySushi | github.com/YaySushi |
+| E Von K | github.com/Jannisaries |
